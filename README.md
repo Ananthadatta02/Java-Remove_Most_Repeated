@@ -1,5 +1,5 @@
 
-# README: Remove Most Repeated Element from an Array
+Remove Most Repeated Element from an Array
 
 ## Introduction
 This Java program finds the most repeated element in an array. The user inputs the size of the array and its elements, and the program determines which element appears most frequently.
